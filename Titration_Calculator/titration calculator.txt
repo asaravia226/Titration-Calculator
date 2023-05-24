@@ -1,0 +1,24 @@
+Objective: To find the volume of acid or base I need to titrate with 
+
+What information does this require? 
+
+Either create a word document with all relevant files or a text document with every buffer and its details. 
+
+1. the pKa of the acid or base
+2. The acid or Base Concentration 
+3. The ingredients 
+4. The ingredients' concentrations 
+5. the Buffer's Volume. 
+
+Example Input: 
+
+Enter Buffer Name: 
+Enter Final Volume: 
+Enter Base/Acid Name:
+Enter Starting Concentration: 
+
+Final Volume: 
+ 
+
+
+

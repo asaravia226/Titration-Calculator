@@ -1,0 +1,515 @@
+﻿name,Ingredient,MW (g/mol),Concentration,Unit Amount,Note
+TMA-Cl Buffer,,,,,
+,TMA-Cl,109.6,160.00 mM,17.536 g,160mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,2mM
+TMA Bath 1,,,,,
+,TMA-Cl,109.6,160.00 mM,17.54 g,160mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.095 g,1mM
+,Potassium Chloride,74.55,4.50 mM,0.335 g,4.5mM
+,HEPES,238.3,10.00 mM,2.38 g,10mM
+,Glucose,180.16,10.00 mM,1.8 g,10mM
+,Calcium Chloride,110.98,2.00 mM,0.222 g,2mM
+Tetracaine Solution 20mM,,,,,
+,Tetracaine,300.82,20.00 mM,6.0164 g,
+SyncroPatch Internal,,,,,
+,Cesium Chloride,168.36,40.00 mM,6.7344 g,40mM
+,Cesium Flouride,151.9,90.00 mM,13.671 g,90mM
+,EGTA,380.35,1.00 mM,0.38035 g,1mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Sucrose,342.3,25.00 mM,8.5575 g,25mM
+,NaCl,58.44,10.00 mM,0.5844 g,10mM
+,Glucose,180.16,9.44 mM,1.70071 g,9.44mM
+SyncroPatch Bath 2,,,,,
+,Sodium Chloride,58.44,163.00 mM,9.52572 g,163mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+SyncroPatch Bath 1,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.095 g,1mM
+,Sodium Chloride,58.44,160.00 mM,9.35 g,160mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.38 g,10mM
+,Calcium Chloride,110.98,2.00 mM,0.22 g,2mM
+Special 0.5M KOH,,,,,
+,Potassium Hydroxide,None,None None,1,
+,Water (HPLC Grade),None,None None,2 L,
+Sodium Iodide - Cl Free,,,,,
+,Sodium Iodide,41.99,120.00 mM,5.0388 g,120mM
+,Sodium Gluconate,218.14,40.00 mM,8.7256 g,40mM
+,Potassium Gluconate,234.25,4.50 mM,1.054125 g,4.5mM
+,Calcium Gluconate,430.37,2.00 mM,0.86074 g,2mM
+,Magnesium Gluconate,414.6,1.00 mM,0.4146 g,1mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+"Sodium Borate Buffer, 100mM",,,,,
+,Sodium Borate,381.32,100.00 mM,38.132 g,100mM
+Slices,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,124.00 mM,7.24656 g,124mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,12.00 mM,2.16192 g,12mM
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,2mM
+Single Channel Pipette Solution,,,,,
+,L-Aspartic Acid,133.1,145.00 mM,19.2995 g,145mM
+,NMDG,195.21,145.00 mM,28.30545 g,145 mM
+,HEPES,238.3,20.00 mM,4.766 g,20mM
+,Calcium Chloride,110.98,5.00 mM,0.5549 g,5mM
+,"Magnesium Chloride, (Anhydrous)",95.21,2.00 mM,0.19042 g,2mM
+Single Channel Bath Solution,,,,,
+,1M HCL,0,14.50 % (v/v),145.0 mL,145mM
+,NMDG,195.21,145.00 mM,28.30545 g,145mM
+,HEPES,238.3,20.00 mM,4.766 g,20mM
+,EGTA,380.35,1.00 mM,0.38035 g,1mM
+,"Magnesium Chloride, (Anhydrous)",95.21,2.00 mM,0.19042 g,2mM
+,Sodium Fluoride,41.99,10.00 mM,0.4199 g,10mM
+SIF,,,,,
+,Potassium Phosphate (Monobasic),136.09,5.00 mM,0.68045 g,5mM
+Probenecid 200mM,,,,,
+,Probenecid,285.36,3.00 mM,0.85608 g,
+Probenecid 100mM,,,,,
+,Probenecid,285.36,3.00 mM,0.85608 g,
+Pluronic,,,,,
+,DMSO,78.13,0.10 % (v/v),1.0 L,1L
+Other - Please Specify in Comments,,,,,
+,1 M Glucose,None,None None,1,This is a dummy ingredient!  Please Ignore!
+NMDG Bath,,,,,
+,N-Methyl-D-Glucamine (NMDG),195.21,148.00 mM,28.89108 g,148mM
+,EGTA,380.35,1.00 mM,0.38035 g,1mM
+,Magnesium Chloride (6-Hydrate),203.3,2.00 mM,0.4066 g,2mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Calcium Chloride,110.98,0.10 mM,0.011098 g,0.1mM
+Na/TMA-Cl Bath 1 w/1M HEPES pH 7.50 Stock Solution,,,,,
+,TMA-Cl,109.6,64.00 mM,7.0144 g,
+,Sodium Chloride,58.44,96.00 mM,5.61024 g,
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,
+,Glucose,180.16,10.00 mM,1.8016 g,
+,1M HEPES pH7.5,1000,10.00 mM,10.0 mL,
+Low Cl Internal Solution,,,,,
+,Potassium Gluconate,234.25,100.00 mM,23.425 g,100mM
+,EGTA,380.35,5.00 mM,1.90175 g,5mM
+,"Magnesium Chloride, (Anhydrous)",95.21,3.20 mM,0.304672 g,3.2mM
+,Potassium Chloride,74.55,40.00 mM,2.982 g,40mM
+,HEPES,238.3,5.00 mM,1.1915 g,5mM
+"LB Broth, Miller",,,,,
+,Tryptone,0,1.00 % (v/v),10.0 g,
+,Yeast Extract,0,0.50 % (v/v),5.0 g,
+,Sodium Chloride,74.55,1.00 % (v/v),10.0 g,
+Krebs-Ringer-MES,,,,,
+,Magnesium Sulfate,95.21,1.20 mM,0.114252 g,1.2mM
+,MES,195.2,25.00 mM,4.88 g,25mM
+,Sodium Chloride,58.44,125.00 mM,7.305 g,125mM
+,Potassium Phosphate (Monobasic),136.09,1.20 mM,0.163308 g,1.2mM
+,Potassium Chloride,74.55,4.80 mM,0.35784 g,4.8mM
+,Calcium Chloride,110.98,1.20 mM,0.133176 g,1.2mM
+Krebs-Ringer-HEPES,,,,,
+,Magnesium Sulfate,120.37,1.20 mM,0.144444 g,1.2 mM
+,Sodium Chloride,58.44,125.00 mM,7.305 g,125 mM
+,Potassium Chloride,74.55,4.80 mM,0.35784 g,4.8 mM
+,HEPES,238.3,25.00 mM,5.9575 g,25 mM
+,Calcium Chloride,110.98,1.20 mM,0.133176 g,1.2 mM
+,Potassium Phosphate (Monobasic),136.09,1.20 mM,0.163308 g,1.2 mM
+Krebs,,,,,
+,Sodium Bicarbonate,None,None None,2.10 g,25mM
+,"Magnesium Chloride, (Anhydrous)",None,None None,0.114 g,1.2mM
+,Sodium Phosphate (Monobasic),None,None None,0.144 g,1.2mM
+,Sodium Chloride,None,None None,6.95 g,119mM
+,Potassium Chloride,None,None None,0.186 g,2.5mM
+,Glucose,None,None None,1.98 g,11mM
+,Calcium Chloride,None,None None,0.222 g,2mM
+KMeSO3 Low Cl Internal Solution,,,,,
+,Potassium Methanesulfonate,None,None None,13.42 g,100mM
+,EGTA,None,None None,1.90 g,5mM
+,"Magnesium Chloride, (Anhydrous)",None,None None,0.305 g,3.2mM
+,Potassium Chloride,None,None None,2.98 g,40mM
+,HEPES,None,None None,1.19 g,5mM
+Kanamycin Stock  50mg/ml,,,,,
+,Kanamycin stock,None,None None,20 mL,None
+K-Slices,,,,,
+,"Magnesium Chloride, (Anhydrous)",None,None None,0.095 g,1mM
+,Sodium Chloride,None,None None,5.76 g,98.5mM
+,Potassium Chloride,None,None None,2.24 g,30mM
+,HEPES,None,None None,2.38 g,10mM
+,Glucose,None,None None,2.16 g,12mM
+,Calcium Chloride,None,None None,0.222 g,2mM
+K-Krebs,,,,,
+,Sodium Bicarbonate,84.01,25.00 mM,2.10025 g,25mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.20 mM,0.114252 g,1.2mM
+,Sodium Phosphate (Monobasic),119.98,1.20 mM,0.143976 g,1.2mM
+,Sodium Chloride,58.44,71.50 mM,4.17846 g,71.5mM
+,Potassium Chloride,74.55,25.00 mM,1.86375 g,25mM
+,Glucose,180.16,11.00 mM,1.98176 g,11mM
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,2mM
+K+ Free Bath 1,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,164.50 mM,9.61338 g,164.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,2mM
+IW NaV Internal Solution,,,,,
+,Potassium Gluconate,234.25,100.00 mM,23.425 g,100mM
+,EGTA,380.35,1.00 mM,0.38035 g,1mM
+,"Magnesium Chloride, (Anhydrous)",95.21,2.00 mM,0.19042 g,2mM
+,Potassium Chloride,74.55,40.00 mM,2.982 g,40mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Calcium Chloride,110.98,0.10 mM,0.011098 g,0.1mM
+IW NaV External Solution,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,137.00 mM,8.00628 g,137mM
+,Potassium Chloride,74.55,4.00 mM,0.2982 g,4mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,1.80 mM,0.199764 g,1.8mM
+ISA Water,,,,,
+,Water (HPLC Grade),18.02,0.10 % (v/v),1.0 L,1L
+,Potassium Chloride,74.55,0.15 M,11.1825 g,0.15M (11.18g/L)
+IS-120 KCl,,,,,
+,Potassium Hydroxide,56.11,31.25 mM,1.753437 g,31.25mM
+,EGTA,380.35,10.00 mM,3.8035 g,10mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.75 mM,0.1666175 g,1.75mM
+,Potassium Chloride,74.55,120.00 mM,8.946 g,120mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Calcium Chloride,110.98,5.37 mM,0.5964065 g,5.374mM
+,Na2-ATP,605.19,4.00 mM,2.42076 g,4mM
+Internal KF Solution,,,,,
+,Potassium Fluoride,58.1,130.00 mM,7.553 g,130mM
+,EGTA,380.35,1.50 mM,0.570525 g,1.5mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,10.00 mM,0.5844 g,10mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Internal KCl Solution,,,,,
+,EGTA,380.35,1.50 mM,0.570525 g,1.5mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,10.00 mM,0.5844 g,10mM
+,Potassium Chloride,74.55,150.00 mM,11.1825 g,150mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Internal CsF Solution,,,,,
+,Cesium Fluoride,151.9,130.00 mM,19.747 g,130mM
+,EGTA,380.35,1.50 mM,0.570525 g,1.5mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,10.00 mM,0.5844 g,10mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Internal CsCl/CsF Solution - MgCl2 Free,,,,,
+,Cesium Chloride,168.36,40.00 mM,6.7344 g,40mM
+,Cesium Flouride,151.9,90.00 mM,13.671 g,90mM
+,EGTA (Ethylenebis tetraacetic acid),380.35,1.00 mM,0.38035 g,1mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Sucrose,342.3,25.00 mM,8.5575 g,25mM
+,NaCl,58.44,10.00 mM,0.5844 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Internal CsCl/CsF solution,,,,,
+,Cesium Chloride,168.36,40.00 mM,6.7344 g,40mM
+,Cesium Flouride,151.9,90.00 mM,13.671 g,90mM
+,MgCl2,203.3,2.00 mM,0.4066 g,2mM
+,EGTA,380.35,1.00 mM,0.38035 g,1mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Sucrose,342.3,25.00 mM,8.5575 g,25mM
+,NaCl,58.44,10.00 mM,0.5844 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Internal CsCl,,,,,
+,Cesium Chloride,168.36,130.00 mM,21.8868 g,130mM
+,EGTA,380.35,1.50 mM,0.570525 g,1.5mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,10.00 mM,0.5844 g,10mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Htt buffer,,,,,
+,Sodium Chloride,58.44,200.00 mM,11.688 g,200mM
+,HEPES,238.3,50.00 mM,11.915 g,50mM
+,Glycerol,92.09,10.00 % (v/v),100.0 g,10%
+HSP90,,,,,
+,Potassium Chloride,None,None None,3.72 g,50mM
+,"Magnesium Chloride, (Anhydrous)",None,None None,0.47 g,5mM
+,HEPES,None,None None,4.76 g,20mM
+,Chaps,None,None None,1 g,0.10%
+,Bovine gamma-globulin,None,None None,1 g,0.10%
+High K+   Bath 1,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Potassium Chloride,74.55,164.50 mM,12.26347 g,164.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,2mM
+High Choline Chloride,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,2.00 mM,0.19042 g,2mM
+,Choline Chloride,139.62,160.00 mM,22.3392 g,160mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,2mM
+HERG External,,,,,
+,Sodium Chloride,54.88,138.00 mM,8.07 g,138mM
+,Potassium Chloride,74.55,2.70 mM,0.2 g,2.7mM
+,Calcium Chloride,110.98,0.90 mM,0.1 g,0.9mM
+,"Magnesium Chloride, (Anhydrous)",95.21,0.50 mM,0.05 g,0.5mM
+,Sodium Phosphate (Dibasic),141.96,8.00 mM,1.15 g,8mM
+,Potassium Phosphate (Monobasic),136.09,1.50 mM,0.2 g,1.5mM
+HBSS + HEPES  pH 7.40,,,,,
+,HBSS,0,0.10 % (v/v),1.0 L,
+,HEPES 1M,0,1.00 % (v/v),10.0 mL,
+HBSS + HEPES  pH 7.10,,,,,
+,HBSS,0,0.10 % (v/v),1.0 L,
+,HEPES 1M,0,1.00 % (v/v),10.0 mL,
+HBE Serosal/Mucosal Stock Solutions,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,0.02 M,2.28504 g,0.024M
+,Sodium Chloride,58.44,2.70 M,157.788 g,2.7M
+,Potassium Phosphate (Monobasic),136.09,0.07 M,8.98194 g,0.066M   (KH2PO4)
+,HEPES,238.3,0.20 M,47.66 g,0.2M
+,Calcium Chloride,110.98,0.02 M,2.66352 g,0.024M
+,Potassium Phosphate (Dibasic),174.18,0.02 M,2.891388 g,0.0166M   (K2HPO4)
+HBE Serosal,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.20 mM,0.114 g,1.2mM
+,HEPES,238.3,10.00 mM,2.38 g,10mM
+,Sodium Chloride,54.88,145.00 mM,8.474 g,145mM
+,Potassium Phosphate (Monobasic),136.09,3.30 mM,0.45 g,3.3mM
+,Potassium Phosphate (Dibasic),174.2,0.83 mM,0.145 g,0.83mM
+,Glucose,180.16,10.00 mM,1.8 g,10mM
+,Calcium Chloride,110.98,1.20 mM,0.133 g,1.2mM
+HBE Mucosal,,,,,
+,Sodium Gluconate,218.14,145.00 mM,31.63 g,145mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.20 mM,0.114 g,1.2mM
+,Potassium Phosphate (Monobasic),136.09,3.30 mM,0.45 g,3.3mM
+,Potassium Phosphate (Dibasic),174.2,0.83 mM,0.145 g,0.83mM
+,Glucose,180.16,10.00 mM,1.8 g,10mM
+,HEPES,238.3,10.00 mM,2.38 g,10mM
+,Calcium Chloride,110.98,1.20 mM,0.133 g,1.2mM
+FRT Serosal 1L,,,,,
+,Potassium Phosphate (Dibasic),174.18,2.40 mM,0.418032 g,2.4mM   (K2HPO4)
+,"Magnesium Chloride, (Anhydrous)",95.21,1.20 mM,0.114252 g,1.2mM
+,Sodium Chloride,58.44,135.00 mM,7.8894 g,135mM
+,Potassium Phosphate (Monobasic),136.09,0.60 mM,0.081654 g,0.6mM   (KH2PO4)
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,1.20 mM,0.133176 g,1.2mM
+FRT Mucosal 1L,,,,,
+,Potassium Phosphate (Dibasic),174.2,2.40 mM,0.41808 g,2.4mM  (K2HPO4)
+,Sodium Gluconate,218.14,135.00 mM,29.4489 g,135mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.20 mM,0.1142532 g,1.2mM
+,Potassium Phosphate (Monobasic),136.09,0.60 mM,0.0816516 g,0.6mM   (KH2PO4)
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,1.20 mM,0.133176 g,1.2mM
+Fluorescein 5mM,,,,,
+,Fluorescein,332.31,5.00 mM,1.66155 g,5mM
+Ex-Vivo Tissue Buffer,,,,,
+,Sodium Chloride,58.44,120.00 mM,7.0128 g,120mM
+,Sodium Bicarbonate,84.01,25.00 mM,2.10025 g,25mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.20 mM,0.114252 g,1.2mM
+,Calcium Chloride,110.98,1.20 mM,0.133176 g,1.2mM
+,"Potassium Phosphate (Diabasic, Trihydrate)",228.22,0.80 mM,0.182576 g,0.8mM
+,Potassium Phosphate (Monobasic),136.09,3.30 mM,0.449097 g,3.3mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Indomethacin,357.8,0.03 mM,8.945 mg,0.025mM
+ES-4 KCl,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.095 g,1mM
+,Sodium Chloride,58.44,145.00 mM,8.4738 g,145mM
+,Potassium Chloride,74.55,4.00 mM,0.298 g,4mM
+,HEPES,238.3,10.00 mM,2.38 g,10mM
+,Glucose,180.16,10.00 mM,1.8 g,10mM
+,Calcium Chloride,110.98,2.00 mM,0.222 g,2mM
+"DPBS, no Magnesium, no Calcium-  Gibco 14190 Formula",,,,,
+,Potassium Chloride,74.55,2.67 mM,0.1990485 g,
+,Potassium Phosphate (Monobasic),136.09,1.47 mM,0.2000523 g,
+,Sodium Chloride,58.44,137.93 mM,8.060629 g,
+,sodium phosphate dibasic (7H20),268.07,8.06 mM,2.160644 g,
+DPBS w/0.3% Triton X-100,,,,,
+,Triton X 100,0,0.30 % (v/v),3.0 mL,0.30%
+ddH2O FRD,,,,,
+,DH2O,0,0.10 % (v/v),1.0 L,
+Cl- Free Buffer,,,,,
+,Magnesium Gluconate    (Sigma-Aldrich # 7554),414.6,1.00 mM,0.41 g,1mM
+,Calcium Gluconate    (Sigma-Aldrich # 21144),448.39,2.00 mM,0.9 g,2mM
+,Potassium Gluconate    (Sigma-Aldrich # P1847),234.25,4.50 mM,1.05 g,4.5mM
+,Sodium Gluconate    (Sigma-Aldrich # S2054),218.14,160.00 mM,34.9 g,160mM
+,HEPES    (Fisher # BP3105),238.3,10.00 mM,2.38 g,10mM
+,Glucose    (Sigma-Aldrich # G7528),180.16,10.00 mM,1.8 g,10mM
+Chloramphenicol Stock 100mg/ml,,,,,
+,Chloramphenicol,323.13,3.09 mM,1.0 g,100mg/ml
+CaV External,,,,,
+,Tetraethylammonium chloride,165.7,130.00 mM,21.541 L,
+,Calcium Chloride,110.98,10.00 mM,1.1098 g,
+,Magnesium chloride,203.3,1.00 mM,0.2033 g,
+,HEPES,238.3,10.00 mM,2.383 g,
+,Glucose,180.16,10.00 mM,1.8016 g,
+Carbenecillin Stock 100mg/ml,,,,,
+,Carbenecillin,422.36,2.37 mM,1.000148 g,100mg/ml
+BNZA Binding Wash Buffer,,,,,
+,Trizma Base,121.14,20.00 mM,2.4228 g,20mM
+,Sodium Chloride,58.44,100.00 mM,5.844 g,100mM
+,BSA,66430.3,0.10 % (v/v),1.0 g,0.10%
+Blasticidin 6mg/mL-,,,,,
+,Blasticidin HCL,422.44,0.60 % (v/v),6000.0 mg,500mg/ 83mL Water
+Bath Z,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Bicarbonate,84.01,5.00 mM,0.42005 g,5mM
+,Sodium Chloride,58.44,154.00 mM,8.99976 g,154mM
+,Potassium Chloride,74.55,1.00 mM,0.07455 g,1mM
+,HEPES,238.3,5.00 mM,1.1915 g,5mM
+,Glucose,180.16,5.50 mM,0.99088 g,5.5mM
+,Calcium Chloride,110.98,2.30 mM,0.255254 g,2.3mM
+Bath Y w/ BaCl2,,,,,
+,TMA-Cl,109.6,140.00 mM,15.344 g,140mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Barium Chloride,208.23,30.00 mM,6.2469 g,30mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Bath Y [10X],,,,,
+,TMA-Cl,109.6,1400.00 mM,153.44 g,1400mM
+,"Magnesium Chloride, (Anhydrous)",95.21,10.00 mM,0.9521 g,10mM
+,Potassium Chloride,74.55,45.00 mM,3.35475 g,45mM
+,HEPES,238.3,100.00 mM,23.83 g,100mM
+,Glucose,180.16,100.00 mM,18.016 g,100mM
+Bath Y,,,,,
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,
+,TMA-Cl,109.6,140.00 mM,15.344 g,
+,HEPES,238.3,10.00 mM,2.383 g,
+,Glucose,180.16,10.00 mM,1.8016 g,
+Bath X [10X],,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,10.00 mM,0.9521 g,10mM
+,Sodium Chloride,58.44,1600.00 mM,93.504 g,1600mM
+,Potassium Chloride,74.55,45.00 mM,3.35475 g,45mM
+,HEPES,238.3,100.00 mM,23.83 g,100mM
+Bath X - Ca Free,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,163.00 mM,9.52572 g,163mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Bath X (EGTA/BaCl Modified) Ca Free,,,,,
+,EGTA,None,None None,3.80 g,10mM
+,"Magnesium Chloride, (Anhydrous)",None,None None,0.095 g,1mM
+,Barium Chloride,None,None None,4.87 g,20mM
+,Sodium Chloride,None,None None,7.6 g,130mM
+,Potassium Chloride,None,None None,0.335 g,4.5mM
+,HEPES,None,None None,2.38 g,10mM
+Bath X,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,160.00 mM,9.3504 g,160mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+Bath 2 - Na+ Free,,,,,
+,TMA-Cl,109.6,160.00 mM,17.536 g,160mM
+,"Magnesium Chloride, (Anhydrous)",58.44,1.00 mM,0.05844 g,1mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,0.10 mM,0.011098 g,0.1mM
+Bath 100,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,160.00 mM,9.3504 g,160mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,0.10 mM,0.011098 g,0.1mM
+Bath 1- Calcium FREE,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,162.00 mM,9.46728 g,162mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Bath 1-  Mg & Ca FREE,,,,,
+,Sodium Chloride,58.44,163.00 mM,9.52572 g,163mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+Bath 1 w/ 1M HEPES pH 7.50 Stock Solution,,,,,
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,
+,Sodium Chloride,58.44,160.00 mM,9.3504 g,
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,
+,Glucose,180.16,10.00 mM,1.8016 g,
+,1M HEPES pH7.5,1000,10.00 mM,10.0 mL,
+Bath 1 Low KCl (1.5mM KCl),,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.095 g,
+,Sodium Chloride,58.44,160.00 mM,9.3504 g,
+,Potassium Chloride,74.55,1.50 mM,0.11 g,
+,HEPES,238.3,10.00 mM,2.38 g,
+,Glucose,180.16,10.00 mM,1.8 g,
+,Calcium Chloride,110.98,2.00 mM,0.22 g,
+Bath 1 K+ Free,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.095211 g,1mM
+,Sodium Chloride,54.88,160.00 mM,9.3504 g,160mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,2mM
+Bath 1 B-Cyclodextrin,,,,,
+,Beta-Cyclodextrin,1134.98,4.10 mM,4.653418 g,4.1mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Sodium Chloride,58.44,160.00 mM,9.3504 g,160mM
+,Potassium Chloride,74.55,4.50 mM,0.335475 g,4.5mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,2mM
+"Barium Buffer, 15mM",,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.00 mM,0.09521 g,1mM
+,Choline Chloride,139.62,150.00 mM,20.943 g,150mM
+,TEA-Cl,165.7,5.00 mM,0.8285 g,5mM
+,Barium Chloride,208.23,15.00 mM,3.12345 g,15mM
+,HEPES,238.3,10.00 mM,2.383 g,10mM
+AIF,,,,,
+,Potassium Chloride,74.55,3.48 mM,0.259434 g,3.48mM
+,Sodium Chloride,58.44,100.00 mM,5.844 g,100mM
+,Sodium Bicarbonate,84.01,26.00 mM,2.18426 g,26mM
+,Sodium Phosphate (Monobasic),119.98,11.70 mM,1.403766 g,11.7mM
+,Calcium Chloride,110.98,1.50 mM,0.16647 g,1.5mM
+,Sodium Gluconate,218.14,9.60 mM,2.094144 g,9.6mM
+,Glucose,180.16,5.55 mM,0.999888 g,5.55mM
+,Sucrose,342.3,7.60 mM,2.60148 g,7.6mM
+,Magnesium Sulfate,120.37,3.50 mM,0.421295 g,3.5mM
+ACSF pH 7.30,,,,,
+,"Magnesium Chloride, (Anhydrous)",95.21,1.20 mM,0.114252 g,1.2mM
+,Sodium Bicarbonate,84.01,24.00 mM,2.01624 g,24mM
+,Sodium Phosphate (Monobasic),119.98,1.25 mM,0.149975 g,1.25mM
+,Sodium Chloride,58.44,130.00 mM,7.5972 g,130mM
+,Potassium Chloride,74.55,3.50 mM,0.260925 g,3.5mM
+,Glucose,180.16,10.00 mM,1.8016 g,10mM
+,Calcium Chloride,110.98,1.20 mM,0.133176 g,1.2mM
+80% Methanol in ISA water,,,,,
+,"Methanol, HPLC Grade",0,80.00 % (v/v),800.0 mL,
+,Ultra-pure Water (HPLC Grade),0,20.00 % (v/v),200.0 mL,
+,Potassium Chloride,74.55,150.00 mM,11.1825 g,
+5% NaCl,,,,,
+,Sodium Chloride,58.44,5.00 % (v/v),50.0 g,
+27K-Krebs,,,,,
+,Sodium Bicarbonate,84.01,25.00 mM,2.10025 g,25mM
+,"Magnesium Chloride, (Anhydrous)",95.21,1.20 mM,0.114252 g,1.2mM
+,Sodium Phosphate (Monobasic),119.98,1.20 mM,0.143976 g,1.2mM
+,Sodium Chloride,58.44,94.50 mM,5.52258 g,94.5mM
+,Potassium Chloride,74.55,27.00 mM,2.01285 g,27mM
+,Glucose,180.16,11.00 mM,1.98176 g,11mM
+,Calcium Chloride,110.98,2.00 mM,0.22196 g,2mM
+"1mM Tris Buffer, pH 7.40",,,,,
+,Tris base,121.14,1.00 mM,0.12114 g,1M
+1M Tris pH 7.40,,,,,
+,Tris  Base,121.14,1.00 M,121.14 g,
+1M HEPES at pH 7.50,,,,,
+,HEPES,238.3,1.00 M,238.3 g,
+160mM NaI Cl Free,,,,,
+,Sodium Iodide,41.99,160.00 mM,6.7184 g,160 mM
+,Potassium Gluconate,234.25,4.50 mM,1.054125 g,4.5 mM
+,Calcium Gluconate,430.37,2.00 mM,0.86074 g,2 mM
+,Magnesium Gluconate,414.6,1.00 mM,0.4146 g,1 mM
+,HEPES,238.3,10.00 mM,2.383 g,10 mM
+,Glucose,180.16,10.00 mM,1.8016 g,10 mM
+10x DM,,,,,
+,Sodium Sulfate (Na2SO4),142.04,900.00 mM,127.836 g,900 mM
+,Phenol Red,0,2.00 % (v/v),20.0 mL,
+,"Magnesium Chloride, (Anhydrous)",95.21,58.00 mM,5.52218 g,58 mM
+,HEPES,238.3,10.00 mM,2.383 g,10 mM
+,Calcium Chloride,110.98,2.50 mM,0.27745 g,2.5 mM
+,Potassium Sulfate (K2SO4),174.25,300.00 mM,52.275 g,300 mM
+10M NaOH,,,,,
+,NaOH,40,10.00 M,400.0 g,
+10M KOH,,,,,
+,Potassium Hydroxide,56.11,10.00 M,561.05 g,
+10M CsOH,,,,,
+,Cesium Hydroxide Monohydrate,167.93,10.00 M,1679.3 g,
+0.5% Triton X-100,,,,,
+,Triton X-100,0,0.50 % (v/v),5.0 mL,
+,ISA Water,0,0.10 % (v/v),1.0 L,
