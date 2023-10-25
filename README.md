@@ -15,19 +15,26 @@ c) each ingredient's Molecular Weight, concentration in milimolar, and its unit 
 2) The user is prompted to enter a name from the list of available buffers and their final buffer volume.
 3) Utilizing the Henderson Hasselbach Equation, the recipe's associated pKa (i.e. HEPES pKa = 7.5) 
    and some analytical assumptions of the reactions between HEPES and the titrant, a final volume is calculated.
-  a) 
+  a) ratio = pow(10,(buffers[index].pH - buffers[index].pKa))
+  b) [A-]/[HA] 
+  c)Let our weak acid == an unknown volume, giving us our ratio in this form: 
+  d) = L_A-/L_HA 
+  e) answer = ratio * (volume - answer) == 
+  f) answer = (ratio * volume) / (1 + ratio)
 
 
-
-
-
-Limitations: 
+Limitations
 
 Given the complex nature of the compound chemical interactions that occur in biochemical buffers, it is a very difficult problem to solve analytically, let alone to systematically solve for all biochemical buffers. 
 Thus, with this program being a prototype, it makes a few assumptions about the buffer making process. 
   1. Given that the list of our most popular buffers is quite small, I have reduced the number of buffers that this program can process. 
-  2. The basis of the program's calculations lie in the Henderson Hasselbalch equation, utilizing the pKa of the only buffering ingredient found in each of our most-made buffers: HEPES (pKa = 7.55). 
+  2. The basis of the program's calculations lies in the Henderson Hasselbalch equation, utilizing the pKa of the only buffering ingredient found in each of our most popular buffers: HEPES (pKa = 7.55).
+
+Conclusion:
+
+Using experimental observation, the accuracy of this application has been confirmed to be very close to the necessary titrant volumes. On average, the ratio of titrant volume to total buffer volume is 0.4mL:1000mL. 
+This shows that the formula, is in the least, helpful in giving one an idea of how much titrant volume they should account for. 
+With that said, a simple average ratio could be just as helpful in aiding the titration process. However, an increasing database of vectors/ ingredients and their interactions could provide insight into more predictive methods of modeling. 
  
- Future versions of this program (currently underway) include a more robust bank of buffers and will utilize predictive modeling of hydrogen ion calculations, and not simply just HEPES. 
  
 Happy Titrating! 
